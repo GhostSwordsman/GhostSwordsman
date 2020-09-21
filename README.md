@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img/src=1>
+<img/src=1 onerror=alert(1)>
 <!--
 **GhostSwordsman/GhostSwordsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
